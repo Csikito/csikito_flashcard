@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/csikito_flashcard/static/css/main.b2794cca.css",
+    "main.css": "/csikito_flashcard/static/css/main.d3660692.css",
     "main.js": "/csikito_flashcard/static/js/main.ad77f287.js",
     "static/js/787.19480ae2.chunk.js": "/csikito_flashcard/static/js/787.19480ae2.chunk.js",
     "static/media/remixicon.svg?t=1590207869815": "/csikito_flashcard/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -9,12 +9,12 @@
     "static/media/remixicon.woff?t=1590207869815": "/csikito_flashcard/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/csikito_flashcard/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/csikito_flashcard/index.html",
-    "main.b2794cca.css.map": "/csikito_flashcard/static/css/main.b2794cca.css.map",
+    "main.d3660692.css.map": "/csikito_flashcard/static/css/main.d3660692.css.map",
     "main.ad77f287.js.map": "/csikito_flashcard/static/js/main.ad77f287.js.map",
     "787.19480ae2.chunk.js.map": "/csikito_flashcard/static/js/787.19480ae2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2794cca.css",
+    "static/css/main.d3660692.css",
     "static/js/main.ad77f287.js"
   ]
 }
